@@ -9,6 +9,6 @@ sé incluye dentro de la carpeta para comprobar las tareas, por lo que el progra
 
 En "bst.h" se corrigeron las funciones "visit" y "current level (what level am I)", current level, era una función que se encontraba incompleta, se uso la base de find, y solo se le añadió un contador .De la función visit, en el archvio de pruebas se muestran "success", sin embargo puede que no los de por válidos en el archivo para revisar las tareas, por alguna pequeña diferencia de sintaxis.
 
-En "splay.h" se corrigio la función "remove".
+En "splay.h" se corrigio la función "remove", ya que se había usado la implementación del árbol, en donde se dividía el árbol y se volvía unir.
 
 En "grap.h" se corrigeron todas las funciones, simplemente se cambió la forma en que se leían los grafos, ya que la primera implentación presentaba errores, pero fueron corregidos, para poder realizar la lectura correcta del grafo.
